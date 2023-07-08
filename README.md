@@ -1,2 +1,2 @@
 # UbuntuSetup
-after-install tasks on Ubuntu
+After-install tasks on Ubuntu.
